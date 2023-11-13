@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "405150164170",
+    "project_id": "e-bib-5d3a4",
+    "storage_bucket": "e-bib-5d3a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405150164170:android:216019deda6d7a176f4033",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405150164170-cf6tvvf9igevg5fh02tmvna8dq4h4n43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV9x2j0LZroW4iMPxjNmgxqNSmunIQUs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405150164170-cf6tvvf9igevg5fh02tmvna8dq4h4n43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405150164170:android:e39d7a8e6d0165656f4033",
+        "android_client_info": {
+          "package_name": "com.example.ebib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405150164170-cf6tvvf9igevg5fh02tmvna8dq4h4n43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV9x2j0LZroW4iMPxjNmgxqNSmunIQUs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405150164170-cf6tvvf9igevg5fh02tmvna8dq4h4n43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
