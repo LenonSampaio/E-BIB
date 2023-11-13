@@ -7,7 +7,7 @@ Bem-vindo ao repositório do E-bib, um sistema de gerenciamento de biblioteca de
 
 ## Funcionalidades Principais
 ![Captura de tela 2023-11-13 134826](https://github.com/LenonSampaio/E-BIB/assets/46564907/28e859da-dbbf-41ef-abf9-32325d9e1d75)
-1. **Cadastro de Livros:** Adicione novos livros à biblioteca, informando detalhes como título, autor, ano de publicação e outras informações relevantes.
+1. **Cadastro de Livros:** Adicione novos livros à biblioteca, informando detalhes como título, autor, ano de publicação e outras informações relevantes e sincronize ao Cloud Firestore em tempo real.
 
 2. **Gerenciamento de Empréstimos:** Controle os empréstimos de livros, registrando as datas de retirada e devolução, além de informações do usuário que realizou o empréstimo.
 
