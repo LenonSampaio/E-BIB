@@ -1,16 +1,77 @@
-# ebib
+# # E-bib: Sistema Flutter para Gestão de Biblioteca
 
-A new Flutter project.
+Bem-vindo ao repositório E-bib, uma aplicação Flutter dedicada ao gerenciamento eficiente de bibliotecas. Este sistema oferece funcionalidades completas para cadastro de livros, controle de empréstimos, e inclui um backend em Flutter com autenticação de usuários.
 
-## Getting Started
+## Visão Geral
 
-This project is a starting point for a Flutter application.
+O E-bib é uma solução abrangente para bibliotecas modernas, permitindo o registro detalhado de livros, rastreamento de empréstimos e garantindo segurança com autenticação de usuários.
 
-A few resources to get you started if this is your first Flutter project:
+### Funcionalidades Principais
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Cadastro de Livros:** Adicione informações detalhadas, como título, autor, gênero e mais.
+- **Controle de Empréstimos:** Acompanhe datas de empréstimo e devolução para uma gestão eficaz.
+- **Autenticação de Usuários:** Garanta a segurança com autenticação para acesso às funcionalidades.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Pré-requisitos
+
+- Certifique-se de ter o Flutter instalado em sua máquina.
+- Clone este repositório.
+
+```bash
+git clone https://github.com/seu-usuario/e-bib.git
+cd e-bib
+```
+
+## Configuração
+
+### Backend
+
+1. Navegue até o diretório `backend`.
+
+```bash
+cd backend
+```
+
+2. Instale as dependências.
+
+```bash
+flutter pub get
+```
+
+3. Inicie o servidor.
+
+```bash
+flutter run
+```
+
+### Frontend
+
+1. Navegue até o diretório `frontend`.
+
+```bash
+cd frontend
+```
+
+2. Instale as dependências.
+
+```bash
+flutter pub get
+```
+
+3. Inicie a aplicação.
+
+```bash
+flutter run
+```
+
+## Contribuindo
+
+Contribuições são bem-vindas! Sinta-se à vontade para reportar problemas, sugerir melhorias ou enviar pull requests [aqui](https://github.com/seu-usuario/e-bib).
+
+## Licença
+
+Este projeto é licenciado sob a [Licença MIT](LICENSE).
+
+---
+
+Esperamos que o E-bib seja uma ferramenta valiosa para você! Em caso de dúvidas ou problemas, entre em contato.
