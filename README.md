@@ -1,4 +1,4 @@
-![Captura de tela 2023-11-13 134826](https://github.com/LenonSampaio/E-BIB/assets/46564907/28e859da-dbbf-41ef-abf9-32325d9e1d75)
+
 
 # E-bib: Sistema de Gerenciamento de Livros e Empréstimos
 ![celular5](https://github.com/LenonSampaio/E-BIB/assets/46564907/7f6b379f-b6ae-4122-af7a-939b7dbe6c51)
@@ -6,7 +6,7 @@
 Bem-vindo ao repositório do E-bib, um sistema de gerenciamento de biblioteca desenvolvido em Flutter! Este projeto permite o cadastro e gerenciamento de livros, controle de empréstimos e autenticação de usuários. O backend também foi desenvolvido em Flutter, garantindo o armazenamento seguro de livros e informações de empréstimos.
 
 ## Funcionalidades Principais
-
+![Captura de tela 2023-11-13 134826](https://github.com/LenonSampaio/E-BIB/assets/46564907/28e859da-dbbf-41ef-abf9-32325d9e1d75)
 1. **Cadastro de Livros:** Adicione novos livros à biblioteca, informando detalhes como título, autor, ano de publicação e outras informações relevantes.
 
 2. **Gerenciamento de Empréstimos:** Controle os empréstimos de livros, registrando as datas de retirada e devolução, além de informações do usuário que realizou o empréstimo.
