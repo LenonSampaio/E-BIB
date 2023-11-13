@@ -18,7 +18,7 @@ Bem-vindo ao repositório do E-bib, um sistema de gerenciamento de biblioteca de
 ## Tecnologias Utilizadas
 
 - **Flutter:** Framework de desenvolvimento de aplicativos multiplataforma.
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 - **Dart:** Linguagem de programação utilizada pelo Flutter.
 - **Firebase:** Plataforma de desenvolvimento móvel do Google, utilizada para autenticação de usuários e armazenamento de dados.
 
