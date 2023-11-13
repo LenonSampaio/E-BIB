@@ -39,10 +39,8 @@ Bem-vindo ao repositório do E-bib, um sistema de gerenciamento de biblioteca de
    flutter pub get
    ```
 
-4. **Configuração do Backend:**
-   - O backend foi desenvolvido em Flutter e pode ser configurado para armazenar dados usando o Firebase ou outra solução de sua escolha. Siga as instruções no diretório `backend` para configurar o armazenamento.
 
-5. **Executar o Aplicativo:**
+4. **Executar o Aplicativo:**
    ```bash
    flutter run
    ```
